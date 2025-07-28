@@ -1,1 +1,5 @@
-test
+if you want to create an AI agent that will scan your photo or your family members photo to to train and tell which photo is your and of  your family members. 
+Step 1: create folder name "train" and "test".
+Step 2:In train folder create new folders with name of person whose photo you want to give to train AI agent. 
+Step 3: add photos of person whose folder you have created. 
+Step 4: add photos in test folder to test the working of a agent. 
